@@ -1,0 +1,1 @@
+# xps-omarchy-config-hypr
